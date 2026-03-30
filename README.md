@@ -34,7 +34,7 @@ The model has been trained to understand and explain complex agricultural concep
 * [cite_start]**Pest & Disease Management:** Identifying sustainable strategies to reduce chemical dependency[cite: 334, 358].
 
 ##  Repository Structure
-* [cite_start]`agro_model.ipynb`: Complete Google Colab notebook covering the end-to-end pipeline from environment setup to model merging and deployment[cite: 1, 55].
+* [cite_start]`Model.ipynb`: Complete Google Colab notebook covering the end-to-end pipeline from environment setup to model merging and deployment[cite: 1, 55].
 * [cite_start]`requirements.txt`: List of necessary Python libraries (Transformers, PEFT, Accelerate, BitsAndBytes)[cite: 3, 136, 203].
 
 ##  Usage
